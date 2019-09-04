@@ -8,6 +8,7 @@
   "dependencies": {
     "@line/bot-sdk": "^6.8.1",
     "body-parser": "~1.0.0",
+    "bull": "^3.10.0",
     "cookie-parser": "~1.0.1",
     "debug": "~0.7.4",
     "express": "~4.0.0",
@@ -16,6 +17,7 @@
     "linebot": "^1.5.3",
     "lodash": "^4.17.15",
     "morgan": "~1.0.0",
+    "nodemon": "^1.19.1",
     "static-favicon": "~1.0.0"
   }
 }
